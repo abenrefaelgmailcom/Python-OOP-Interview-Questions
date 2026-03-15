@@ -1,4 +1,4 @@
-תקציר OOP בפייתון – גרסת שינון מהירה
+
 
 OOP – Object Oriented Programming
 
